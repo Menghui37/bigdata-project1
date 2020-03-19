@@ -37,6 +37,10 @@ Figure 1: Average Fine amount vs. County
 
 Figure 1 shows how average fine amount are different based on 8 counties.
 
+```
+![image](https://user-images.githubusercontent.com/57785809/77029292-ae04ea00-6971-11ea-9373-ff1e84bf5643.png)
+```
+
 
 Figure 2: Violation count by license type
 
