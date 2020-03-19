@@ -39,18 +39,29 @@ Figure 1 shows how average fine amount are different based on 8 counties.
 
 ![image](https://user-images.githubusercontent.com/57785809/77029292-ae04ea00-6971-11ea-9373-ff1e84bf5643.png)
 
+
 Figure 2: Violation count by license type
 
 Figure 2 shows counts of violation for  6 differnet license types.
 
+![image](https://user-images.githubusercontent.com/57785809/77029559-6df23700-6972-11ea-8eba-1a8649502463.png)
+
+
 
 Figure 3: Count of violation 
 
-Figure 3 shows the ratio of all 20 violations .
+Figure 3 shows the ratio of all 20 violations.
+
+![image](https://user-images.githubusercontent.com/57785809/77029606-87937e80-6972-11ea-9929-2a27fadcd980.png)
+
+
 
 Figure 4: Total Fine amount vs. County
 
 Figure 4 shows total fine amount in each counties.
+
+![image](https://user-images.githubusercontent.com/57785809/77029625-95490400-6972-11ea-872e-31430ec698ac.png)
+
 
 
 
